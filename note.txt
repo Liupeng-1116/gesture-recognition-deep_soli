@@ -1,0 +1,2 @@
+deep soli - pytorch 实现
+https://github.com/sholevs66/Deep-Soli---Hand-Gesture-recognition.git
